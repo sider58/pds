@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+}
+
+.marine {
+  background-color: rgb(2, 3, 88)!important; 
+}
+
+header nav a img {
+  width: 150px;
+
+}
+
+hr {
+  height: 1px!important;
+  background-color: #000000!important;
+
+}
+
+footer {
+  bottom: 0;
+  padding: 40px;
+  text-align: center;
+  font-size: 16px;
+
+}
